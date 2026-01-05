@@ -1,4 +1,4 @@
-{
+[{
     id: "TEST01",
     status: "ACTIVE",
     statusClass: "status-active",
@@ -24,4 +24,4 @@
     desc: "CLASSIFIED",
     access: "ACCESS_DENIED",
     url: "https://example.com/"
-}
+}]
