@@ -1,5 +1,14 @@
 [
     {
+        "id": "Date202601091",
+        "status": "ACTIVE",
+        "statusClass": "status-active",
+        "title": "Generative Adversarial Networks - Image generation",
+        "desc": "Generator & Discriminator showcase with software in siminar at Streesmutprakan School",
+        "access": "ACCESS_FILES",
+        "url": "https://github.com/Tsukinatsune/AI-PYTHON-HS/tree/main/GAN-Image%20gen"
+    },
+    {
         "id": "TEST01",
         "status": "ACTIVE",
         "statusClass": "status-active",
