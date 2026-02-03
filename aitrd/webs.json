@@ -1,5 +1,14 @@
 [  
     {
+        "id": "Date202602031",
+        "status": "ACTIVE",
+        "statusClass": "status-active",
+        "title": "Simple Pixiv login",
+        "desc": "About A simple pixiv login that use playwright framework to automation",
+        "access": "ACCESS_FILES",
+        "url": "https://github.com/Tsukinatsune/Simple-Pixiv-login"
+    },
+    {
         "id": "Date202601222",
         "status": "ACTIVE",
         "statusClass": "status-active",
